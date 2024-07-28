@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.wisc.edu/'>Affiliations</a>. PhD Student at University of Wisconsin-Madison
+subtitle: <a href='https://www.cs.wisc.edu/'>Affiliation</a>. PhD Student @ UW-Madison
 
 profile:
   align: right
