@@ -2,34 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Seongheon Park
+      value: Albert Einstein
     - name: Date of Birth
-      value: 17th December 1996
+      value: 14th March 1879
     - name: Languages
-      value: Korean (native), English, Japanese (JLPT N1)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student in Computer Science
-      institution: University of Wisconsin-Madison, US
-      year: 2024 - Present
-      description:
-        - 
-        - 
-        - title: 
-          contents:
-            - 
-            - 
-    - title: MS in Electircal and Electronic Engineering
-      institution: Yonsei University, KR
-      year: 2021 - 2023
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
-      - title: BS in Electircal and Electronic Engineering
-      institution: Yonsei University, KR
-      year: 2015 - 2021
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
@@ -100,4 +94,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Playing piano, watching movies, and listening to music etc.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
