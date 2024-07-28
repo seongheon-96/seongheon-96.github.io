@@ -12,6 +12,16 @@ profile:
     <p> 1210 W Dayton St </p>
     <p> Madison, WI 53706 </p>
 
+## Education
+- **PhD Student in Computer Science**, University of Wisconsin-Madison, US (2024 - Present)
+- **MS in Electrical and Electronic Engineering**, Yonsei University, KR (2021 - 2023)
+- **BS in Electrical and Electronic Engineering**, Yonsei University, KR (2015 - 2021)
+
+## Languages
+- **English:** Fluent
+- **Korean:** Native
+- **Japanese:** Intermediate
+
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
