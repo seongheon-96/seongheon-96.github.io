@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I’m a first-year Ph.D. student in the Computer Sciences department at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Yixuan Li](https://pages.cs.wisc.edu/~sharonli/). I completed my M.S. degree at Yonsei University in the Electronic and Electrical Engineering department under the supervision of Prof. [Kwanghoon Sohn](https://diml.yonsei.ac.kr/) and Prof. [Kibok Lee](https://ml.yonsei.ac.kr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research vision centers on aligning AI systems with human intentions and values, specifically by developing safe and reliable AI models that are robust to distribution shifts in real-world environments. Currently, I am focusing on the safety of large language models (LLMs) and multi-modal language models (MLLMs).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
