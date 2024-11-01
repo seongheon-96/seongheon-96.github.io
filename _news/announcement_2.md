@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper about Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference is accepted by *CVPR Workshop 2024*. :dizzy:
+Our paper Rethinking Open-World Semi-Supervised Learning: Distribution Mismatch and Inductive Inference is accepted by *CVPR Workshop 2024*. :dizzy:
