@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cs.wisc.edu/'>Affiliation</a>. CS PhD Student at UW-Madison
+subtitle: **Contact**. seongheon_park [at] cs [dot] wisc [dot] edu
 
 profile:
   align: right
