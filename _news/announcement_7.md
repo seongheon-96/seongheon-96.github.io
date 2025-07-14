@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper about LVLM object hallucnation detection is accepted by *ICML 2025 Workshop on Reliable and Responsible Foundation Models* :notes:
+Our paper about LVLM object hallucnation detection is accepted by *ICML 2025 Workshop on Reliable and Responsible Foundation Models* :notes:
