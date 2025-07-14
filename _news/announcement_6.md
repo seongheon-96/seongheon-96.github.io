@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by *ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models* :fire:
+Two papers are accepted by *ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models* :relaxed:
