@@ -26,4 +26,4 @@ My research interests lie broadly in **safe and reliable foundation models**, wi
 * Uncertainty quantification
 * Interpretability
 
-I am also interested in applying these techniques to broader challenges, including the design of more accurate reward and training signals for post-training and self-improvement.
+I am also interested in applying these techniques to broader challenges, including the design of more accurate reward and training signals for post-training and self-verification/improvement.
