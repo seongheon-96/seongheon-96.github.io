@@ -27,3 +27,5 @@ My research interests lie broadly in **safe and reliable foundation models**, wi
 * Interpretability
 
 I am also interested in applying these techniques to broader challenges, including the design of more accurate reward and training signals for post-training and self-verification/improvement.
+
+:mega: *I am actively seeking internship opportunities for Summer 2026. Please feel free to reach out if there is a potential fit!*
