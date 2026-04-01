@@ -18,14 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m a second-year PhD student in the Computer Sciences department at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Yixuan Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I completed my MS degree at Yonsei University in the Electrical and Electronic Engineering department under the supervision of Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
+Hello! I’m a second-year PhD student in the Computer Sciences department at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I completed my MS degree at Yonsei University in the Electrical and Electronic Engineering department under the supervision of Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
 
-My research interests lie broadly in **safe and reliable foundation models**, with a current focus on large language models, multi-modal language models, and diffusion models. By "reliable," I mean developing methods that help users better trust model outputs. Specifically, my work centers on:
+My research focuses on making foundation models (LLMs, LVLMs, and VLAs) safe and reliable in real-world deployment. Specifically, I study **why and how these models fail** through:
 
-* Detecting and mitigating hallucinations and errors
-* Uncertainty quantification
-* Interpretability
+- Detecting and mitigating erroneous generation
+- Reasoning about failure modes
+- Latent space interpretability
 
-I am also interested in applying these techniques to broader challenges, including the design of more accurate reward and training signals for post-training and self-verification/improvement.
+These are crucial for preventing catastrophic failures in human-facing and industrial applications, and for enabling robust agentic systems to stop, replan, and incorporate human intervention in an interpretable way. I am also broadly interested in multimodal models and post-training.
 
-:mega: *I am actively seeking internship opportunities for Summer 2026. Please feel free to reach out if there is a potential fit!*
