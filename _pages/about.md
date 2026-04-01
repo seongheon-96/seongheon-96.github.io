@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Contact</strong>. seongheon_park [at] cs [dot] wisc [dot] edu &nbsp;|&nbsp; <a href="/assets/pdf/cv.pdf"><strong>CV</strong></a>
+subtitle: <strong>Contact</strong>. seongheon_park [at] cs [dot] wisc [dot] edu &nbsp;|&nbsp; <a href="/assets/pdf/CV_Seongheon.pdf"><strong>CV</strong></a>
 
 profile:
   align: right
