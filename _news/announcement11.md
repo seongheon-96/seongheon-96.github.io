@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining Microsoft Research Tokyo this May as a research intern, working on Embodied AI agents :star2:
+I will be joining Microsoft Research Asia-Tokyo this May as a research intern, working on Embodied AI agents :star2:
