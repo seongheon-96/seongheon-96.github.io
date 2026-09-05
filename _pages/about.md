@@ -22,9 +22,9 @@ Hello! I’m a second-year PhD student in the Computer Sciences department at th
 
 My research focuses on making foundation models (LLMs, LVLMs, and VLAs) safe and reliable in real-world deployment. Specifically, I study **why and how these models fail** and **how to monitor and correct them** through:
 
-- Failure detection and mitigation
-- Failure reasoning
-- Latent space interpretability
+- Failure detection, mitigation, and recovery
+- Failure reasoning and diagnosis
+- Latent-space interpretability
 
 These are crucial for preventing catastrophic failures in human-facing and industrial applications, and for enabling robust agentic systems to stop, replan, and incorporate human intervention in an interpretable way. I am also broadly interested in multimodal models and post-training.
 
