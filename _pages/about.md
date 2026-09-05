@@ -22,7 +22,7 @@ Hello! I’m a second-year PhD student in the Computer Sciences department at th
 
 My research focuses on making foundation models (LLMs, LVLMs, and VLAs) safe and reliable in real-world deployment. Specifically, I study **why and how these models fail** and **how to monitor and correct them** through:
 
-- Error detection and mitigation (e.g., hallucination)
+- Failure detection and mitigation
 - Failure reasoning
 - Latent space interpretability
 
