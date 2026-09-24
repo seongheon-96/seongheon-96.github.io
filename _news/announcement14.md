@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Excited to start my Student Researcher position at Google! 🚀
+Excited to start my Student Researcher position at Google
+<img src="https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png"
+     alt="Google G" width="18"
+     style="vertical-align:middle;">
