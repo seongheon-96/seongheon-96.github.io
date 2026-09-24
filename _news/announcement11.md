@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I will be joining Microsoft Research Asia-Tokyo this May as a research intern, working on Embodied AI agents :star2:
+I will be joining Microsoft Research Asia-Tokyo this May as a research intern, working on Embodied AI agents <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+     alt="Microsoft" width="18"
+     style="vertical-align:middle;">
+
