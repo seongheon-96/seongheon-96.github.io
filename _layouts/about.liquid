@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post homepage">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -42,32 +42,52 @@ layout: default
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
-      {% include news.liquid limit=true %}
+      <section class="home-section" aria-labelledby="news">
+        <h2 class="home-section-title" id="news">
+          <a href="{{ '/news/' | relative_url }}">News</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      </section>
     {% endif %}
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+      <section class="home-section" aria-labelledby="latest-posts">
+        <h2 class="home-section-title" id="latest-posts">
+          <a href="{{ '/blog/' | relative_url }}">Latest Posts</a>
+        </h2>
+        {% include latest_posts.liquid %}
+      </section>
+    {% endif %}
+
+    {% if page.professional_experience %}
+      <section class="home-section" aria-labelledby="professional-experience">
+        <h2 class="home-section-title" id="professional-experience"><span>Professional Experience</span></h2>
+        <ul class="experience-list">
+          {% for experience in page.professional_experience %}
+            <li>
+              <h3>{{ experience.organization | escape }}</h3>
+              <p>{{ experience.role | escape }}</p>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
-      </h2>
-      {% include publications_note.liquid %}
-      {% include selected_papers.liquid %}
+      <section class="home-section" aria-labelledby="selected-publications">
+        <h2 class="home-section-title" id="selected-publications">
+          <a href="{{ '/publications/' | relative_url }}">Selected Publications</a>
+        </h2>
+        {% include publications_note.liquid %}
+        {% include selected_papers.liquid %}
+      </section>
     {% endif %}
 
     {% if page.reviewer_experience %}
-      <section aria-labelledby="reviewer-experience">
-        <h2 id="reviewer-experience">Reviewer Experience</h2>
+      <section class="home-section" aria-labelledby="reviewer-experience">
+        <h2 class="home-section-title" id="reviewer-experience"><span>Reviewer Experience</span></h2>
         <ul>
           <li><strong>Conference:</strong> {{ page.reviewer_experience.conference | join: ', ' | escape }}</li>
           <li><strong>Journal:</strong> {{ page.reviewer_experience.journal | join: ', ' | escape }}</li>
@@ -76,9 +96,9 @@ layout: default
     {% endif %}
 
     {% if page.miscellaneous %}
-      <section aria-labelledby="miscellaneous">
-        <h2 id="miscellaneous">Miscellaneous</h2>
-        {{ page.miscellaneous | markdownify }}
+      <section class="home-section" aria-labelledby="miscellaneous">
+        <h2 class="home-section-title" id="miscellaneous"><span>Miscellaneous</span></h2>
+        <div class="miscellaneous-content">{{ page.miscellaneous | markdownify }}</div>
       </section>
     {% endif %}
 
