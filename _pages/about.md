@@ -39,7 +39,7 @@ miscellaneous: |
   Korean (Native), English, Japanese (JLPT N1)
 ---
 
-Hello! I’m a third-year PhD student in the Computer Sciences department at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I completed my MS degree at Yonsei University in the Electrical and Electronic Engineering department under the supervision of Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
+Hello! I’m a third-year Ph.D student in the Department of Computer Sciences at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I received my M.S. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, where I was advised by Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
 
 My research focuses on making foundation models (LLMs, LVLMs, and VLAs) safe and reliable in real-world deployment. Specifically, I study **why and how these models fail** and **how to monitor and correct them** through:
 
