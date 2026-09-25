@@ -18,7 +18,10 @@ social: true # includes social icons at the bottom of the page
 reviewer_experience:
   conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
   journal: [TPAMI, PR]
-miscellaneous: ""
+miscellaneous: |
+  Outside of research, I love playing the piano 🎹, listening to all kinds of music and attending concerts 🎶, and exploring art and architecture 🎨🏛️. If you share any of these interests, I’d love to connect!
+    ### Languages 🌐
+  Korean (Native), English, Japanese (JLPT N1)
 ---
 
 Hello! I’m a third-year PhD student in the Computer Sciences department at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I completed my MS degree at Yonsei University in the Electrical and Electronic Engineering department under the supervision of Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
