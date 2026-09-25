@@ -20,11 +20,13 @@ professional_experience:
     role: Student Researcher
     topic: LLM agents
     period: Sep 2026 – Present
+    location: New York, United States
     logo: https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png
   - organization: Microsoft Research Asia–Tokyo
     role: Research Intern
     topic: VLAs
     period: May 2026 – Aug 2026
+    location: Tokyo, Japan
     logo: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
 reviewer_experience:
   conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
