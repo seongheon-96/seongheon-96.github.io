@@ -18,10 +18,16 @@ social: true # includes social icons at the bottom of the page
 professional_experience:
   - organization: Google
     role: Student Researcher
+    topic: LLM agents
+    period: Sep 2026 – Present
+    logo: https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png
   - organization: Microsoft Research Asia–Tokyo
-    role: Research Intern · Embodied AI agents
+    role: Research Intern
+    topic: VLAs
+    period: May 2026 – Aug 2026
+    logo: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
 reviewer_experience:
-  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR, AAAI]
+  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
   journal: [TPAMI, PR]
 miscellaneous: |
   Outside of research, I love playing the piano 🎹, listening to all kinds of music and attending concerts 🎶, and exploring art and architecture 🎨🏛️. If you share any of these interests, I’d love to connect!
