@@ -15,12 +15,19 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+professional_experience:
+  - organization: Google
+    role: Student Researcher
+  - organization: Microsoft Research Asia–Tokyo
+    role: Research Intern · Embodied AI agents
 reviewer_experience:
   conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
   journal: [TPAMI, PR]
 miscellaneous: |
   Outside of research, I love playing the piano 🎹, listening to all kinds of music and attending concerts 🎶, and exploring art and architecture 🎨🏛️. If you share any of these interests, I’d love to connect!
-    ### Languages 🌐
+
+  ### Languages 🌐
+
   Korean (Native), English, Japanese (JLPT N1)
 ---
 
