@@ -21,7 +21,7 @@ professional_experience:
   - organization: Microsoft Research Asia–Tokyo
     role: Research Intern · Embodied AI agents
 reviewer_experience:
-  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
+  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR, AAAI]
   journal: [TPAMI, PR]
 miscellaneous: |
   Outside of research, I love playing the piano 🎹, listening to all kinds of music and attending concerts 🎶, and exploring art and architecture 🎨🏛️. If you share any of these interests, I’d love to connect!
