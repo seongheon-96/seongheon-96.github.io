@@ -29,7 +29,7 @@ professional_experience:
     location: Tokyo, Japan
     logo: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
 reviewer_experience:
-  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR]
+  conference: [CVPR, ECCV, ACL, NeurIPS, ICLR, AAAI]
   journal: [TPAMI, PR]
 miscellaneous: |
   Outside of research, I love playing the piano 🎹, listening to all kinds of music and attending concerts 🎶, and exploring art and architecture 🎨🏛️. If you share any of these interests, I’d love to connect!
