@@ -80,6 +80,9 @@ layout: default
                   {{ experience.role | escape }}
                   {% if experience.topic %} · {{ experience.topic | escape }}{% endif %}
                 </p>
+                {% if experience.location %}
+                  <p><small>{{ experience.location | escape }}</small></p>
+                {% endif %}
               </div>
             </li>
           {% endfor %}
