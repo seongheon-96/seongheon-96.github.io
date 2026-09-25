@@ -65,9 +65,22 @@ layout: default
         <h2 class="home-section-title" id="professional-experience"><span>Professional Experience</span></h2>
         <ul class="experience-list">
           {% for experience in page.professional_experience %}
-            <li>
-              <h3>{{ experience.organization | escape }}</h3>
-              <p>{{ experience.role | escape }}</p>
+            <li class="experience-entry">
+              {% if experience.logo %}
+                <img class="experience-logo" src="{{ experience.logo | escape }}" alt="" width="36" height="36" loading="lazy">
+              {% endif %}
+              <div class="experience-details">
+                <div class="experience-heading">
+                  <h3>{{ experience.organization | escape }}</h3>
+                  {% if experience.period %}
+                    <p class="experience-period">{{ experience.period | escape }}</p>
+                  {% endif %}
+                </div>
+                <p>
+                  {{ experience.role | escape }}
+                  {% if experience.topic %} · {{ experience.topic | escape }}{% endif %}
+                </p>
+              </div>
             </li>
           {% endfor %}
         </ul>
