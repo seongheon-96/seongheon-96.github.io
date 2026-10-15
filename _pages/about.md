@@ -41,10 +41,14 @@ miscellaneous: |
 
 Hello! I’m a third-year Ph.D. student in the Department of Computer Sciences at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I received my M.S. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, where I was advised by Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
 
-My research focuses on making foundation models (LLMs, LVLMs, and VLAs) safe and reliable in real-world deployment. Specifically, I study **why and how these models fail** and **how to monitor and correct them** through:
+**I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, robotics, and post-training. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
 
-- Failure detection, mitigation, and recovery
-- Failure reasoning and diagnosis
-- Latent-space interpretability
+My research focuses on **reliable foundation models (LLMs, LVLMs, and VLAs)** and **self-improving AI agents**, with applications in language, multimodal reasoning, and robotics. I study **why and how models and agents fail**, and how signals from their behavior and internal representations can help them **evaluate decisions, recover from mistakes, and learn from experience**.
 
-These are crucial for preventing catastrophic failures in human-facing and industrial applications, and for enabling robust agentic systems to stop, replan, and incorporate human intervention in an interpretable way. I am also broadly interested in multimodal models and post-training.
+My work connects three directions:
+
+- **Understanding failures:** failure detection, uncertainty estimation, and interpretability to identify when and why models go wrong.
+- **Improving decisions at test time:** verification, progress evaluation, and test-time scaling for language and robotic agents.
+- **Post-training and adaptation:** understanding and improving how agents use feedback to refine their behavior.
+
+My broader goal is to enable agents to complete long-horizon tasks reliably in unfamiliar environments, recognize when to replan or seek human assistance, and improve through interaction. I am particularly interested in how learned policies, memory, and runtime monitoring can work together within agent systems to support these capabilities.
