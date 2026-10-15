@@ -41,7 +41,7 @@ miscellaneous: |
 
 Hello! I’m a third-year Ph.D. student in the Department of Computer Sciences at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I received my M.S. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, where I was advised by Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
 
-**I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, robotics, and post-training. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
+:mega: **I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, and robotics. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
 
 My research focuses on **reliable foundation models (LLMs, LVLMs, and VLAs)** and **self-improving AI agents**, with applications in language, multimodal reasoning, and robotics. I study **why and how models and agents fail**, and how signals from their behavior and internal representations can help them **evaluate decisions, recover from mistakes, and learn from experience**.
 
