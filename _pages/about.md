@@ -43,19 +43,21 @@ Hello! I’m a third-year Ph.D. student in the Department of Computer Sciences a
 
 :mega: **I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, and robotics. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
 
-My research focuses on building **reliable AI agents** by understanding when they may fail and using that insight to improve their decisions. I study how signals from model representations and behavior can help evaluate and guide agents and robotic systems built on foundation models.
+*Humans learn from mistakes. AI agents should, too.*
+
+My research focuses on building **reliable AI agents** by understanding when and why they fail and using that insight to guide their decisions. I study signals from the representations and behavior of foundation models, with applications to AI agents and robotic systems.
 
 My work connects two directions:
 
 <ul style="padding-left: 1.25rem; margin-bottom: 1.25rem;">
   <li class="mb-3">
-    <strong>Understanding, detecting, and evaluating failures:</strong> anomaly and hallucination detection, uncertainty quantification, and failure analysis.
+    <strong>(1) Understanding, detecting, and evaluating failures:</strong> anomaly and hallucination detection, uncertainty quantification, and failure analysis.
     <small class="d-block mt-1" style="color: var(--global-text-color); opacity: 0.7; font-size: 0.875em; line-height: 1.6;">[WACV'23, CVPRW'24, 2×ICML'25, NeurIPS'25, 2×ICLR'26, 2×ACL'26, 2×NeurIPS'26, ECCVW'26]</small>
   </li>
   <li>
-    <strong>Guiding decisions through test-time computation and post-training:</strong> verification, ranking, progress evaluation, and learning from feedback.
+    <strong>(2) Using this understanding to guide decisions:</strong> verification and learning from feedback through test-time computation and post-training.
     <small class="d-block mt-1" style="color: var(--global-text-color); opacity: 0.7; font-size: 0.875em; line-height: 1.6;">[ICML'25, NeurIPS'25, NeurIPS'26, NeurIPSW'26]</small>
   </li>
 </ul>
 
-My broader goal is to turn these signals into actionable feedback that helps agents recover from mistakes and improve through experience.
+My broader goal is to turn signals of failure and uncertainty into actionable feedback that helps agents recover from mistakes and improve through experience.
