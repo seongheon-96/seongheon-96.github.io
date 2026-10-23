@@ -41,8 +41,6 @@ miscellaneous: |
 
 Hello! I’m a third-year Ph.D. student in the Department of Computer Sciences at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I received my M.S. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, where I was advised by Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
 
-:mega: **I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, and robotics. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
-
 *Humans learn from mistakes. AI agents should, too.*
 
 My research focuses on building **reliable AI agents** by understanding when and why they fail and using that insight to guide their decisions. I study signals from the representations and behavior of foundation models, with applications to AI agents and robotic systems.
@@ -61,3 +59,5 @@ My work connects two directions:
 </ul>
 
 My broader goal is to turn signals of failure and uncertainty into actionable feedback that helps agents recover from mistakes and improve through experience.
+
+:mega: **I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, and robotics. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
