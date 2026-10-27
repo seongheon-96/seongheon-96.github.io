@@ -58,6 +58,6 @@ My work connects two directions:
   </li>
 </ul>
 
-My broader goal is to turn signals of failure and uncertainty into actionable feedback that helps agents recover from mistakes and improve through experience.
+My broader goal is to turn signals of failure and uncertainty into actionable feedback that guides learning and helps agents recover from mistakes and improve through experience.
 
 :mega: **I am actively seeking Summer 2027 research internship opportunities**, particularly in foundation models, AI agents, and robotics. [Please get in touch](mailto:seongheon_park@cs.wisc.edu)!
