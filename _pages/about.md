@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 professional_experience:
   - organization: Google
     role: Student Researcher
-    topic: Self-Improving LLMs
+    topic: Self-Improving Agents
     period: Sep 2026 – Present
     location: New York, United States
     logo: https://www.gstatic.com/images/branding/product/2x/googleg_48dp.png
