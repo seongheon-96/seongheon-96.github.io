@@ -36,7 +36,7 @@ miscellaneous: |
 
   ### Languages 🌐
 
-  Korean (Native), English, Japanese (JLPT N1)
+  Korean (Native), English (Fluent), Japanese (Advanced, JLPT N1)
 ---
 
 Hello! I’m a third-year Ph.D. student in the Department of Computer Sciences at the University of Wisconsin-Madison, where I am fortunate to be advised by Prof. [Sharon Li](https://scholar.google.com/citations?user=QSTd1oUAAAAJ&hl=en&oi=ao). Previously, I received my M.S. and B.S. degrees in Electrical and Electronic Engineering from Yonsei University, where I was advised by Prof. [Kwanghoon Sohn](https://scholar.google.com/citations?user=zEtk0QsAAAAJ&hl=en) and Prof. [Kibok Lee](https://scholar.google.com/citations?user=6wwWRdEAAAAJ&hl=en).
